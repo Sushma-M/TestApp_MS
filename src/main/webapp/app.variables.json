@@ -70,6 +70,17 @@
     "operation" : "gotoPage",
     "pageName" : "Main"
   },
+  "goToPage_Main_Copy" : {
+    "_id" : "wm-goToPage_Main_Copy-wm.NavigationVariable-1530870490474",
+    "name" : "goToPage_Main_Copy",
+    "owner" : "App",
+    "category" : "wm.NavigationVariable",
+    "dataBinding" : [ ],
+    "operation" : "gotoPage",
+    "pageName" : "Main_Copy",
+    "dataSet" : [ ],
+    "pageTransitions" : "none"
+  },
   "loggedInUser" : {
     "_id" : "wm-loggedInUser-wm.Variable-1481871579192",
     "name" : "loggedInUser",
